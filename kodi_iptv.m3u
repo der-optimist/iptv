@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-name="Das_Erste_HD" tvg-id="DasErste.de" group-title="Hauptsender" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-http://192.168.178.75/?freq=11493&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10301&pmt=5100&pids=0,5101,5102,5100
+rstp://192.168.178.75/?freq=11493&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10301&pmt=5100&pids=0,5101,5102,5100
 #EXTINF:-1 tvg-chno="2" tvg-name="ZDF_HD" tvg-id="ZDF.de" group-title="Hauptsender" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-http://192.168.178.75/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11110&pmt=6100&pids=0,6110,6120,6100
+satip://192.168.178.75/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11110&pmt=6100&pids=0,6110,6120,6100
 #EXTINF:-1 tvg-chno="3" tvg-name="ZDFneo_HD" tvg-id="ZDFneo.de" group-title="Hauptsender" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
 http://192.168.178.75/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11130&pmt=6300&pids=0,6310,6320,6300
 #EXTINF:-1 tvg-chno="4" tvg-name="KiKA_HD" tvg-id="Kika.de" group-title="Hauptsender" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA HD
