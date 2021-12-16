@@ -39,67 +39,69 @@ http://192.168.178.75/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=a
 #EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/ntv-hd.png",n-tv
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12090&pmt=48&pids=0,169,73,48
 
-#EXTINF:-1,SWR BW HD
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",
+
+#EXTINF:-1 tvg-name="SWR BW HD" tvg-id="swr.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR BW HD
 http://192.168.178.75/?freq=11493&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10303&pmt=5120&pids=0,5121,5122,5120
-#EXTINF:-1,MDR S-Anhalt HD
+#EXTINF:-1 tvg-name="MDR S-Anhalt HD" tvg-id="mdr-sa.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR S-Anhalt HD
 http://192.168.178.75/?freq=10891&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10353&pmt=5330&pids=0,5331,5332,5330
-#EXTINF:-1,rbb Berlin HD
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbb-berlin.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 http://192.168.178.75/?freq=10891&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10351&pmt=5310&pids=0,5311,5312,5310
-#EXTINF:-1,hr-fernsehen HD
+#EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="hr.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen HD
 http://192.168.178.75/?freq=10891&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10355&pmt=5350&pids=0,5351,5352,5350
-#EXTINF:-1,BR Fernsehen Süd HD
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="br.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
 http://192.168.178.75/?freq=11582&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10325&pmt=5200&pids=0,5201,5202,5200
-#EXTINF:-1,NDR FS HH HD
+#EXTINF:-1 tvg-name="NDR HH HD" tvg-id="ndr.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR HH HD
 http://192.168.178.75/?freq=11582&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10329&pmt=5240&pids=0,5221,5222,5240
-#EXTINF:-1,WDR HD Köln
+#EXTINF:-1 tvg-name="WDR HD Köln" tvg-id="wdr.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD Köln
 http://192.168.178.75/?freq=12421&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28325&pmt=5500&pids=0,5501,5502,5500
-#EXTINF:-1,SR Fernsehen HD
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="sr.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 http://192.168.178.75/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10378&pmt=5430&pids=0,5431,5432,5430
-#EXTINF:-1,Radio Bremen HD
+#EXTINF:-1 tvg-name="Radio Bremen HD" tvg-id="radio-bremen.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen HD
 http://192.168.178.75/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10379&pmt=5440&pids=0,5441,5442,5440
-#EXTINF:-1,Ulm-Allgäu HD
+#EXTINF:-1 tvg-name="Ulm-Allgäu HD" tvg-id="ulm.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",Ulm-Allgäu HD
 http://192.168.178.75/?freq=11552&src=aa&pol=h&msys=dvbs2&fec=34&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=5803&pmt=104&pids=0,1040,1042,104
-#EXTINF:-1,REGIO TV
+#EXTINF:-1 tvg-name="REGIO TV" tvg-id="regiotv.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",REGIO TV
 http://192.168.178.75/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=47&pmt=107&pids=0,2047,2048,107
-#EXTINF:-1,Lokal-TV-Portal HD
+#EXTINF:-1 tvg-name="Lokal-TV-Portal HD" tvg-id="lokalestv.de" group-title="Vollprogramm" tvg-logo="https://www.l-tv.de/img/logo-l-tv-landesfernsehen.png",Lokal-TV-Portal HD
 http://192.168.178.75/?freq=11552&src=aa&pol=h&msys=dvbs2&fec=34&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=5805&pmt=106&pids=0,1001,65535,106
 
 
-#EXTINF:-1,ARD ONE HD
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",ARD ONE HD
 http://192.168.178.75/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10376&pmt=5410&pids=0,5411,5412,5410
-#EXTINF:-1,ARD-alpha HD
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",ARD-alpha HD
 http://192.168.178.75/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10377&pmt=5420&pids=0,5421,5422,5420
-#EXTINF:-1,ZDFinfo HD
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",ZDFinfo HD
 http://192.168.178.75/?freq=11347&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11170&pmt=6700&pids=0,6710,6720,6700
-#EXTINF:-1,arte HD
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",arte HD
 http://192.168.178.75/?freq=11493&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10302&pmt=5110&pids=0,5111,5112,5110
-#EXTINF:-1,3sat HD
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",3sat HD
 http://192.168.178.75/?freq=11347&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11150&pmt=6500&pids=0,6510,6520,6500
 
 
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",MTV
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28678&pmt=418&pids=0,4081,4082,418
-#EXTINF:-1,NICK/MTV+
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",NICK/MTV+
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28680&pmt=420&pids=0,4101,4102,420
-#EXTINF:-1,Nick Junior Global
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",Nick Junior Global
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28665&pmt=335&pids=0,3111,3112,335
-#EXTINF:-1,TELE 5
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",TELE 5
 http://192.168.178.75/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=51&pmt=99&pids=0,1535,1536,99
-#EXTINF:-1,SAT.1 Gold
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",SAT.1 Gold
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17504&pmt=100&pids=0,1279,1280,100
-#EXTINF:-1,Pro7 MAXX
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",Pro7 MAXX
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17505&pmt=101&pids=0,1535,1536,101
-#EXTINF:-1,kabel eins Doku
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",kabel eins Doku
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17509&pmt=105&pids=0,2559,2560,105
-#EXTINF:-1,TOGGO plus
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",TOGGO plus
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12030&pmt=58&pids=0,301,303,58
-#EXTINF:-1,NITRO
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",NITRO
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12061&pmt=53&pids=0,173,146,53
-#EXTINF:-1,HGTV Garten DIY
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",HGTV Garten DIY
 http://192.168.178.75/?freq=10920&src=aa&pol=h&msys=dvbs&fec=78&sr=22000&mtype=auto&sid=38&pmt=99&pids=0,1023,1024,99
-#EXTINF:-1,SIXX
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",SIXX
 http://192.168.178.75/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=776&pmt=99&pids=0,767,768,99
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",Comedy Central
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28676&pmt=416&pids=0,4061,4062,416
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-name="" tvg-id=".de" group-title="Vollprogramm" tvg-logo="",Disney Channel
 http://192.168.178.75/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=1793&pmt=115&pids=0,2047,2048,115
