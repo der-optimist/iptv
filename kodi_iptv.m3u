@@ -26,17 +26,17 @@ http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=a
 http://192.168.178.75/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=63&pmt=108&pids=0,3327,3328,108
 
 
-#EXTINF:-1,tagesschau24 HD
+#EXTINF:-1 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24 HD
 http://192.168.178.75/?freq=11052&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10375&pmt=5400&pids=0,5401,5402,5400
-#EXTINF:-1,phoenix HD
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix HD
 http://192.168.178.75/?freq=11582&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10331&pmt=5260&pids=0,5261,5262,5260
-#EXTINF:-1,CNN Int.
+#EXTINF:-1 tvg-name="CNN Int" tvg-id="cnn.com" group-title="Vollprogramm" tvg-logo="https://www.pngfind.com/pngs/m/403-4038847_cnn-international-logo-png-cnn-logo-eps-transparent.png",CNN Int.
 http://192.168.178.75/?freq=11626&src=aa&pol=v&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=4422&pmt=3946&pids=0,165,100,3946
-#EXTINF:-1,BBC World News Europe HD
+#EXTINF:-1 tvg-name="BBC World News Europe HD" tvg-id="bbc.com" group-title="Vollprogramm" tvg-logo="https://w7.pngwing.com/pngs/820/447/png-transparent-bbc-news-logo-others-television-text-logo.png",BBC World News Europe HD
 http://192.168.178.75/?freq=11229&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=5001&pmt=212&pids=0,2091,2092,212
-#EXTINF:-1,N24 DOKU
+#EXTINF:-1 tvg-name="N24 DOKU" tvg-id="n24doku.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/n24-doku.png",N24 DOKU
 http://192.168.178.75/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=48&pmt=97&pids=0,511,512,97
-#EXTINF:-1,n-tv
+#EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/ntv-hd.png",n-tv
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12090&pmt=48&pids=0,169,73,48
 
 #EXTINF:-1,SWR BW HD
