@@ -79,29 +79,29 @@ http://192.168.178.75/?freq=11493&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilo
 http://192.168.178.75/?freq=11347&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11150&pmt=6500&pids=0,6510,6520,6500
 
 
-#EXTINF:-1 tvg-name="MTV" tvg-id="mtv.de" group-title="Vollprogramm" tvg-logo="",MTV
+#EXTINF:-1 tvg-name="MTV" tvg-id="mtv.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/mtv.png",MTV
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28678&pmt=418&pids=0,4081,4082,418
-#EXTINF:-1 tvg-name="NICK/MTV+" tvg-id="nick.de" group-title="Vollprogramm" tvg-logo="",NICK/MTV+
+#EXTINF:-1 tvg-name="NICK/MTV+" tvg-id="nick.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/nick.png",NICK/MTV+
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28680&pmt=420&pids=0,4101,4102,420
-#EXTINF:-1 tvg-name="Nick Junior Global" tvg-id="nickjun.de" group-title="Vollprogramm" tvg-logo="",Nick Junior Global
+#EXTINF:-1 tvg-name="Nick Junior Global" tvg-id="nickjun.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/nick.png",Nick Junior Global
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28665&pmt=335&pids=0,3111,3112,335
-#EXTINF:-1 tvg-name="TELE 5" tvg-id="tele5.de" group-title="Vollprogramm" tvg-logo="",TELE 5
+#EXTINF:-1 tvg-name="TELE 5" tvg-id="tele5.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/tele5.png",TELE 5
 http://192.168.178.75/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=51&pmt=99&pids=0,1535,1536,99
-#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-id="sat1gold.de" group-title="Vollprogramm" tvg-logo="",SAT.1 Gold
+#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-id="sat1gold.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/sat1-gold.png",SAT.1 Gold
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17504&pmt=100&pids=0,1279,1280,100
-#EXTINF:-1 tvg-name="Pro7 MAXX" tvg-id="pro7maxx.de" group-title="Vollprogramm" tvg-logo="",Pro7 MAXX
+#EXTINF:-1 tvg-name="Pro7 MAXX" tvg-id="pro7maxx.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/pro7-maxx.png",Pro7 MAXX
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17505&pmt=101&pids=0,1535,1536,101
-#EXTINF:-1 tvg-name="kabel eins Doku" tvg-id="k1doku.de" group-title="Vollprogramm" tvg-logo="",kabel eins Doku
+#EXTINF:-1 tvg-name="kabel eins Doku" tvg-id="k1doku.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/kabel1-doku.png",kabel eins Doku
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17509&pmt=105&pids=0,2559,2560,105
-#EXTINF:-1 tvg-name="TOGGO plus" tvg-id="toggoplus.de" group-title="Vollprogramm" tvg-logo="",TOGGO plus
+#EXTINF:-1 tvg-name="TOGGO plus" tvg-id="toggoplus.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/toggo-plus-hd.png",TOGGO plus
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12030&pmt=58&pids=0,301,303,58
-#EXTINF:-1 tvg-name="NITRO" tvg-id="nitro.de" group-title="Vollprogramm" tvg-logo="",NITRO
+#EXTINF:-1 tvg-name="NITRO" tvg-id="nitro.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/rtl-nitro-hd.png",NITRO
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12061&pmt=53&pids=0,173,146,53
-#EXTINF:-1 tvg-name="HGTV Garten DIY" tvg-id="hgtvgarten.de" group-title="Vollprogramm" tvg-logo="",HGTV Garten DIY
+#EXTINF:-1 tvg-name="HGTV Garten DIY" tvg-id="hgtvgarten.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/hgtv.png",HGTV Garten DIY
 http://192.168.178.75/?freq=10920&src=aa&pol=h&msys=dvbs&fec=78&sr=22000&mtype=auto&sid=38&pmt=99&pids=0,1023,1024,99
-#EXTINF:-1 tvg-name="SIXX" tvg-id="sixx.de" group-title="Vollprogramm" tvg-logo="",SIXX
+#EXTINF:-1 tvg-name="SIXX" tvg-id="sixx.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/sixx.png",SIXX
 http://192.168.178.75/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=776&pmt=99&pids=0,767,768,99
-#EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Vollprogramm" tvg-logo="",Comedy Central
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Vollprogramm" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/comedy-central.png",Comedy Central
 http://192.168.178.75/?freq=11973&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=28676&pmt=416&pids=0,4061,4062,416
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id="disneychannel.de" group-title="Vollprogramm" tvg-logo="",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="disneychannel.de" group-title="Vollprogramm" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Disney-Channel-Logo-500x281.png",Disney Channel
 http://192.168.178.75/?freq=12460&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=1793&pmt=115&pids=0,2047,2048,115
