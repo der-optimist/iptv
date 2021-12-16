@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1,Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 http://192.168.178.75/?freq=11493&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=10301&pmt=5100&pids=0,5101,5102,5100
-#EXTINF:-1,ZDF HD
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 http://192.168.178.75/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11110&pmt=6100&pids=0,6110,6120,6100
-#EXTINF:-1,zdf_neo HD
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
 http://192.168.178.75/?freq=11361&src=aa&pol=h&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11130&pmt=6300&pids=0,6310,6320,6300
-#EXTINF:-1,KiKA HD
+#EXTINF:-1 tvg-name="KiKA HD" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA HD
 http://192.168.178.75/?freq=11347&src=aa&pol=v&msys=dvbs2&fec=23&rolloff=35&pilots=auto&sr=22000&mtype=auto&sid=11160&pmt=6600&pids=0,6610,6620,6600
 
-#EXTINF:-1,RTL Television
+#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/rtl-hd.png",RTL
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12003&pmt=44&pids=0,163,104,44
-#EXTINF:-1,SAT.1
+#EXTINF:-1 tvg-name="SAT.1" tvg-id="sat1.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/sat1.png",SAT.1
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17500&pmt=96&pids=0,255,256,96
-#EXTINF:-1,ProSieben
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="ProSieben.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/pro7.png",ProSieben
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17501&pmt=97&pids=0,511,512,97
-#EXTINF:-1,kabel eins
+#EXTINF:-1 tvg-name="kabel eins" tvg-id="kabeleins.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/kabel1.png",kabel eins
 http://192.168.178.75/?freq=12544&src=aa&pol=h&msys=dvbs&fec=56&sr=22000&mtype=auto&sid=17502&pmt=98&pids=0,767,768,98
-#EXTINF:-1,VOX
+#EXTINF:-1 tvg-name="VOX" tvg-id="vox.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/vox-hd.png",VOX
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12060&pmt=47&pids=0,167,136,47
-#EXTINF:-1,SUPER RTL
+#EXTINF:-1 tvg-name="SUPER RTL" tvg-id="superrtl.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/super-rtl-hd.png",SUPER RTL
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12040&pmt=45&pids=0,165,120,45
-#EXTINF:-1,RTL2
+#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/rtl-zwei-hd.png",RTL2
 http://192.168.178.75/?freq=12187&src=aa&pol=h&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=12020&pmt=46&pids=0,166,128,46
-#EXTINF:-1,DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX.de" group-title="Kinder / Jugend" tvg-logo="https://kodi-unlimited-support.de/tv/logo/white/dmax.png",DMAX
 http://192.168.178.75/?freq=12480&src=aa&pol=v&msys=dvbs&fec=34&sr=27500&mtype=auto&sid=63&pmt=108&pids=0,3327,3328,108
 
 
